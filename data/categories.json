@@ -5,7 +5,7 @@
     },
     {
         "id": "02",
-        "name": "Python"
+        "name": "Bootstrap"
     },
     {
         "id": "03",
@@ -13,7 +13,7 @@
     },
     {
         "id": "04",
-        "name": "Java"
+        "name": "jQuery"
     },
     {
         "id": "05",
@@ -26,9 +26,5 @@
     {
         "id": "07",
         "name": "Dot Net"
-    },
-    {
-        "id": "08",
-        "name": "All Courses"
     }
 ]
